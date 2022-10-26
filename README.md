@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
-link image title description
 
-# <Horiseon Refactor Code>
+
+# Horiseon Refactor Code
 
 ## Description
 
@@ -13,9 +13,8 @@ https://sarahgjacobs.github.io/horiseon-website/
 
 ## Usage
 
-    ```md
-    ![alt text](../horiseon-website/assets/images/horiseon-screenshot.png)
-    ```
+   
+![Screenshot of Horiseon Website](assets/images/horiseon-screenshot.png "Horiseon Refactor Code")
 
 
 ---
